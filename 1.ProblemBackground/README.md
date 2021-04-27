@@ -5,3 +5,6 @@
 
 [Actors and Actions](Personas.drawio)
 * List of actors and mapping to actions
+
+[Constraints](Constraints.md)
+* List of known constraints
