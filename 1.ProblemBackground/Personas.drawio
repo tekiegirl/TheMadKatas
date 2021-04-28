@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T18:54:43.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JAAK3g7io2TIxCgMozuz" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T08:27:35.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5HcsUiCAEzZzU5n0c2JG" version="14.6.6" type="github" pages="2">
   <diagram id="QQjb7B1x9FnSJum1Ktwq" name="Actors_ActionsList">
-    <mxGraphModel dx="2889" dy="29" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="-691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="EJEmB71T8K7dt9peTRfo-4" value="&lt;ul&gt;&lt;li&gt;Keeps track of problem ticket operations&lt;/li&gt;&lt;li&gt;Receives Operational reports&lt;/li&gt;&lt;li&gt;Receives Analytical reports&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="-680" y="1749" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YfdMjusSYWNKrkRUo4AD-1" value="&lt;br&gt;&lt;br&gt;HelpDeskUser" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-760" y="2150" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YfdMjusSYWNKrkRUo4AD-2" value="&lt;ul&gt;&lt;li&gt;Communicate with customers through phone, e-mails&lt;/li&gt;&lt;li&gt;Update tickets&lt;/li&gt;&lt;li&gt;Follow-up tickets with Expert users&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2130" width="410" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
