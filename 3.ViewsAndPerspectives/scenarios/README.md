@@ -4,12 +4,12 @@ Scenarios key to architecture design.
 
 ## 01 Customer registers for a plan/contract
 
-![ScenarioCustomerRegisterPlan](images\ScenarioCustomerRegisterPlan.png)
+![ScenarioCustomerRegisterPlan](images/ScenarioCustomerRegisterPlan.png)
 
 ## 02 Customer creates a Ticket
 
-![ScenarioCustomerCreateTicket](images\ScenarioCustomerCreateTicket.png)
+![ScenarioCustomerCreateTicket](images/ScenarioCustomerCreateTicket.png)
 
 ## 03 Ticket created for Expert
 
-![ScenarioTicketCreatedForExpert](images\ScenarioTicketCreatedForExpert.png)
+![ScenarioTicketCreatedForExpert](images/ScenarioTicketCreatedForExpert.png)
