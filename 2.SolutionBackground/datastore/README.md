@@ -74,5 +74,5 @@ Polyglot Persistence would be considered, at this point, if any one type did not
 
 Note: this diagram was not specifically designed around the Customer, but grew to show how central the Customer is to the model.
 
-![GraphDatabaseDesign](images\GraphDatabaseDesign.png)
+![GraphDatabaseDesign](images/GraphDatabaseDesign.png)
 
