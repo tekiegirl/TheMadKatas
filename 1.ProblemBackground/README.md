@@ -6,6 +6,8 @@
 [Actors and Actions](Personas.drawio)
 * List of actors and mapping to actions
 
-[Constraints and Assumptions](Constraints and Assumptions.md)
+[Constraints and Assumptions](ConstraintsAndAssumptions.md)
+
 * List of known constraints
 * List of assumptions made
+
