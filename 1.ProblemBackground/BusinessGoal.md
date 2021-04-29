@@ -64,7 +64,3 @@ Following are the significant non-functional requirements based on current pain 
 
 
 
-## Constraints
-
-* Something need to be done soon
-* 
