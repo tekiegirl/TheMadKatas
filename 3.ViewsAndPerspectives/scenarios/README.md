@@ -13,3 +13,7 @@ Scenarios key to architecture design.
 ## 03 Ticket created for Expert
 
 ![ScenarioTicketCreatedForExpert](images/ScenarioTicketCreatedForExpert.png)
+
+## 04 Expert acts on Ticket
+
+![ScenarioExpertActsOnTicket](images/ScenarioExpertActsOnTicket.png)
