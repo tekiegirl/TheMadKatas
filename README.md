@@ -11,7 +11,29 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata.
 
 ## Solution Structure
 
+[Clarifications](Clarifications.md)
 
+[Glossary](Glossary.md)
+
+[Problem Background](1.ProblemBackground/README.md)
+
+​	[Business Goal](1.ProblemBackground/BusinessGoal.md)
+
+​	[Constraints & Assumptions](1.ProblemBackground/ConstraintsAndAssumptions.md)
+
+[Solution Background](2.SolutionBackground/README.md)
+
+​	[Architecture Principles](2.SolutionBackground/ArchitecturePrinciples.md)
+
+​	[Datastore Solution Overview](2.SolutionBackground/datastore/README.md)
+
+​	[ADRs](4.ADRs/README.md)
+
+[Views & Perspectives](3.ViewsAndPerspectives/README.md)
+
+​	[Scenario Flow Diagrams](3.ViewsAndPerspectives/scenarios/README.md)
+
+​	[C4 Infrastructure Models](3.ViewsAndPerspectives/infrastructure/README.md)
 
 ## Resources
 
