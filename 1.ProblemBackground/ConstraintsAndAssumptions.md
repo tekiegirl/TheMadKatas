@@ -6,4 +6,4 @@
 # Assumptions
 * Downtime during migration is acceptable
 * Data migration is required to keep data from existing system
-* 
+* Penultimate Electronics have a corporate wide used 3rd party payment gateway service
