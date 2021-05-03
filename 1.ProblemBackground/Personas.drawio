@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T10:42:25.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="zAES4BjNGxNUC05c6w0j" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-03T10:55:55.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="IYm0-t47MG-GOAk9CdNZ" version="14.6.9" type="github" pages="2">
   <diagram id="QQjb7B1x9FnSJum1Ktwq" name="Actors_ActionsList">
     <mxGraphModel dx="1933" dy="-108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,11 @@
         <mxCell id="J72GgOKcRnNWa9zSAubg-6" value="&lt;ul&gt;&lt;li&gt;Operational reports &lt;b&gt;needs to be accurate&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;System not available or unusable when reports needs to be generated&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="-322" y="1768" width="361" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="J72GgOKcRnNWa9zSAubg-7" value="&lt;ul&gt;&lt;li&gt;Operational reports &lt;b&gt;needs to be accurate&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;System not available or unusable when reports needs to be generated&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="J72GgOKcRnNWa9zSAubg-7" value="&lt;ul&gt;&lt;li&gt;Maintain Internal users with ease&lt;/li&gt;&lt;li&gt;Maintain Products catalogue with ease&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="-322" y="1943" width="361" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="J72GgOKcRnNWa9zSAubg-8" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Ticket &lt;/span&gt;&lt;b&gt;System not available OR unusable&lt;/b&gt;&lt;span&gt; when required&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="2088" width="438" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
