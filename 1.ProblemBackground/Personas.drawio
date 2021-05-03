@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-03T11:08:00.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="YuXuvWoqw56mSbAoRIHh" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-03T11:20:13.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="yzcvmxwFHxSahRqPxc3Z" version="14.6.9" type="github" pages="3">
   <diagram id="QQjb7B1x9FnSJum1Ktwq" name="Actors_ActionsList">
     <mxGraphModel dx="2462" dy="-45" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,26 +34,79 @@
         <mxCell id="YfdMjusSYWNKrkRUo4AD-2" value="&lt;ul&gt;&lt;li&gt;Communicate with customers through phone, e-mails&lt;/li&gt;&lt;li&gt;Create Problem tickets&lt;/li&gt;&lt;li&gt;Update tickets&lt;/li&gt;&lt;li&gt;Follow-up tickets with Expert users/Customers&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
           <mxGeometry x="-719" y="2086" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="J72GgOKcRnNWa9zSAubg-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;&lt;u&gt;Concerns&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-218" y="1332" width="124" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="J72GgOKcRnNWa9zSAubg-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;&lt;u&gt;Actions&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-675" y="1332" width="124" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="J72GgOKcRnNWa9zSAubg-4" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;No Show&lt;/b&gt; from Expert from Penultimate Electronics&lt;/li&gt;&lt;li&gt;&lt;b&gt;Wrong Expert turning-up&lt;/b&gt; leading to equipment in faulty state&amp;nbsp;for long time&lt;/li&gt;&lt;li&gt;Ticket &lt;b&gt;System not available OR unusable&lt;/b&gt; when required&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-322" y="1427" width="438" height="86" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Stakeholders_Concerns" id="zR9UEuVcjHkxmCp0v6Jo">
+    <mxGraphModel dx="2462" dy="-45" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-0" />
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-1" parent="RefNpGyB1EDhLtIPy6CC-0" />
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-2" value="&lt;br&gt;Customer" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-763" y="1482" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J72GgOKcRnNWa9zSAubg-5" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Visiting a customer but not able to resolve the problem &lt;/b&gt;due to mismatch of the skill&lt;/li&gt;&lt;li&gt;System (Ticketing system or Knowledge Base) &lt;b&gt;not available OR unusable&lt;/b&gt; when required&lt;/li&gt;&lt;li&gt;Knowledge Base &lt;b&gt;not showing most suitable results&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-329" y="1596" width="428" height="86" as="geometry" />
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-3" value="&lt;br&gt;Expert" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-765" y="1640" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J72GgOKcRnNWa9zSAubg-6" value="&lt;ul&gt;&lt;li&gt;Operational reports &lt;b&gt;needs to be accurate&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;System not available or unusable when reports needs to be generated&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-322" y="1768" width="361" height="86" as="geometry" />
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-4" value="&lt;br&gt;Manager" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-767" y="1796" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J72GgOKcRnNWa9zSAubg-7" value="&lt;ul&gt;&lt;li&gt;Maintain Internal users with ease&lt;/li&gt;&lt;li&gt;Maintain Products catalogue with ease&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-322" y="1943" width="361" height="86" as="geometry" />
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-5" value="&lt;br&gt;&lt;br&gt;Administrator" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-770" y="1907" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="J72GgOKcRnNWa9zSAubg-8" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Ticket &lt;/span&gt;&lt;b&gt;System not available OR unusable&lt;/b&gt;&lt;span&gt; when required&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="2088" width="438" height="86" as="geometry" />
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-6" value="&lt;ul&gt;&lt;li&gt;Registers for Service&lt;/li&gt;&lt;li&gt;Maintain their profile, plans/contracts, billing information&lt;/li&gt;&lt;li&gt;Creates Problem Tickets&lt;/li&gt;&lt;li&gt;Provide Feedback through surveys&lt;/li&gt;&lt;li&gt;View Statements, and Billing history&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-725" y="1461" width="361" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-7" value="&lt;ul&gt;&lt;li&gt;Work on Assigned tickets and Fix problems&lt;/li&gt;&lt;li&gt;Updates Tickets&lt;/li&gt;&lt;li&gt;Search Knowledge Base&lt;/li&gt;&lt;li&gt;Updates Knowledge Base (? - Directly / Indirectly)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-727" y="1630" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-8" value="&lt;ul&gt;&lt;li&gt;Manages internal users of the system&lt;/li&gt;&lt;li&gt;Manages list of experts and their details (skill, location and availability)&lt;/li&gt;&lt;li&gt;Billing processing for customers&lt;/li&gt;&lt;li&gt;Static reference data (Products/plans and their costs..etc)&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-728" y="1892" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-9" value="&lt;ul&gt;&lt;li&gt;Keeps track of problem ticket operations&lt;/li&gt;&lt;li&gt;Receives Operational reports&lt;/li&gt;&lt;li&gt;Receives Analytical reports&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-727" y="1777" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-10" value="&lt;br&gt;&lt;br&gt;HelpDeskUser" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-779" y="2063" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-11" value="&lt;ul&gt;&lt;li&gt;Communicate with customers through phone, e-mails&lt;/li&gt;&lt;li&gt;Create Problem tickets&lt;/li&gt;&lt;li&gt;Update tickets&lt;/li&gt;&lt;li&gt;Follow-up tickets with Expert users/Customers&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-719" y="2043" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-12" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;&lt;u&gt;Concerns&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-218" y="1206" width="124" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-13" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;&lt;u&gt;Actions&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-675" y="1206" width="124" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-14" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;No Show&lt;/b&gt; from Expert from Penultimate Electronics&lt;/li&gt;&lt;li&gt;&lt;b&gt;Wrong Expert turning-up&lt;/b&gt; leading to equipment in faulty state&amp;nbsp;for long time&lt;/li&gt;&lt;li&gt;Ticket &lt;b&gt;System not available OR unusable&lt;/b&gt; when required&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-317" y="1461" width="438" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-15" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Visiting a customer but not able to resolve the problem &lt;/b&gt;due to mismatch of the skill&lt;/li&gt;&lt;li&gt;System (Ticketing system or Knowledge Base) &lt;b&gt;not available OR unusable&lt;/b&gt; when required&lt;/li&gt;&lt;li&gt;Knowledge Base &lt;b&gt;not showing most suitable results&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-324" y="1630" width="428" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-16" value="&lt;ul&gt;&lt;li&gt;Operational reports &lt;b&gt;needs to be accurate&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;System not available or unusable when reports needs to be generated&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-319" y="1774" width="361" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-17" value="&lt;ul&gt;&lt;li&gt;Maintain Internal users with ease&lt;/li&gt;&lt;li&gt;Maintain Products catalogue with ease&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-322" y="1900" width="361" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="RefNpGyB1EDhLtIPy6CC-18" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Ticket &lt;/span&gt;&lt;b&gt;System not available OR unusable&lt;/b&gt;&lt;span&gt; when required&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Additional work/follow-ups &lt;b&gt;due to lost tickets and un-resolved/pending tickets&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-325" y="2045" width="438" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="LZveaYhmuHlYFKsyWKCa-0" value="&lt;br&gt;Penultimate&lt;br&gt;Management" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-767" y="1318" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LZveaYhmuHlYFKsyWKCa-1" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Damage to brand Image due to frequent problems&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Potential loss of business if customers start going to&amp;nbsp;competitors&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-314" y="1306" width="438" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="LZveaYhmuHlYFKsyWKCa-2" value="&lt;br&gt;Development Teams" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-777" y="2205" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LZveaYhmuHlYFKsyWKCa-3" value="&lt;ul&gt;&lt;li&gt;&lt;b&gt;Difficult to perform any changes&lt;/b&gt; to current monolithic system, so looking for more modular manageable system&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="RefNpGyB1EDhLtIPy6CC-1">
+          <mxGeometry x="-329" y="2187" width="438" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
