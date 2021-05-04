@@ -4,7 +4,7 @@
 * [Data Store Solution](datastore/README.md)
 * [Deployment](Deployment.md)
 * [Migration](Migration.md)
-* [ADRs](../4.ADRs/README.md)
+* [ADRs](../4.ADRs)
 
 ------
 
