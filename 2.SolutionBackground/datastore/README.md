@@ -66,7 +66,7 @@ Polyglot Persistence would be considered, at this point, if any one type did not
 
 ## Datastore Decisions
 
-(list and link to ADRs)
+[We will use a graph database as a data store for SysOps Squad](../../4.ADRs/005We-will-use-a-Graph-Database.md)
 
 ## Datastore Design Overview
 
