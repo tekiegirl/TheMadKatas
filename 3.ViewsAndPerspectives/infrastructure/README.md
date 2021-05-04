@@ -1,7 +1,5 @@
 # C4 Infrastructure Models
 
-[TOC]
-
 ## Context Diagram (Level 1 - top level)
 
 A **System Context** diagram provides a starting point, showing how the software system in scope fits into the world around it.^
