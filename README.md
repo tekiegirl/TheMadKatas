@@ -27,7 +27,7 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata.
 - [Datastore Solution Overview](2.SolutionBackground/datastore/README.md)
 - [Deployment](2.SolutionBackground/Deployment.md)
 - [Migration](2.SolutionBackground/Migration.md)
-- [ADRs](4.ADRs/README.md)
+- [ADRs](4.ADRs)
 
 [Views & Perspectives](3.ViewsAndPerspectives/README.md)
 
