@@ -36,7 +36,8 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata.
 
 ## Resources
 
-
+- [2021 Architecture Katas Presentation](docs/2021ArchitectureKatasPresentation.pdf)
+- [2021 Kata Participating Teams Info](docs/2021KataParticipatingTeamsInfo.pdf)
 
 ## References
 
