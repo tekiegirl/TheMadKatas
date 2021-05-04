@@ -17,7 +17,7 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata.
 [Problem Background](1.ProblemBackground/README.md)
 
 - [Business Goal](1.ProblemBackground/BusinessGoal.md)
-- [Actors and Actions](1.ProblemBackground/images/Personas.drawio)
+- [Actors and Actions](1.ProblemBackground/images/Personas.png)
 - [Constraints & Assumptions](1.ProblemBackground/ConstraintsAndAssumptions.md)
 - [Stakeholder Concerns](1.ProblemBackground/StakeholderConcerns.md)
 
