@@ -43,4 +43,4 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata.
 
 - [Micro Frontends @ MartinFowler.com](https://martinfowler.com/articles/micro-frontends.html)
 - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
-
+- [C4 Model] (https://c4model.com/)
