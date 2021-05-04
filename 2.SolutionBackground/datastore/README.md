@@ -1,5 +1,7 @@
 # Datastore Solution Overview
 
+[TOC]
+
 ## Datastore Requirements
 
 ### Functional
@@ -47,6 +49,8 @@
 - N.DS.05 - when updating the schema of a table then all rows must be updated to this new schema (and backend and frontend code must be able to contend with removed information)
 - N.DS.06 - not met due to complexity of joins to maintain relationships
 
+
+
 ### Document
 
 #### Requirements Not Met
@@ -54,25 +58,41 @@
 - N.DS.02 - may not meet this because of complex nature of relationships
 - N.DS.06 - unknown, may depend on specific technology
 
+
+
 ### Graph
 
 #### Requirements Not Met
 
 None.
 
+
+
 ### Polyglot Persistence (Combination)
 
 Polyglot Persistence would be considered, at this point, if any one type did not meet all the above requirements. Graph does meet all the requirements, but this does not rule out adding other types of data stores in the future if it were deemed a good architectural decision. This architecture is designed to be agile in nature.
+
+
 
 ## Datastore Decisions
 
 [We will use a graph database as a data store for SysOps Squad](../../4.ADRs/005We-will-use-a-Graph-Database.md)
 
+
+
 ## Datastore Design Overview
+
+The following diagram shows how the nodes and relationships within the graph database will be set up. Although only Bill, Contract and Product currently reference the Day node, any of the other nodes such as Payment could also do this instead of storing that data within the node as a property.
 
 ### Graph Node and Relationship Design Overview
 
-Note: this diagram was not specifically designed around the Customer, but grew to show how central the Customer is to the model.
+#### Notes
+
+- this diagram was not specifically designed around the Customer, but grew to show how central the Customer is to the model
+- only some properties of some relationships are shown, but all nodes and relationships will contain the appropriate properties (like columns in the current relational database)
 
 ![GraphDatabaseDesign](images/GraphDatabaseDesign.png)
 
+------
+
+back to [Solution Overview](../README.md)
