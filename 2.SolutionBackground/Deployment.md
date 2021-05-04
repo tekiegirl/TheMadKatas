@@ -1,7 +1,5 @@
 # Deployment Overview
 
-[TOC]
-
 To meet the availability and elasticity requirements of the system the following is suggested:
 
 ## Containers

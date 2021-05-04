@@ -1,7 +1,5 @@
 # Architecture Principles
 
-[TOC]
-
 ## Architecture general
 
 | Principle                  | Rational                                                     | Implications                                                 |

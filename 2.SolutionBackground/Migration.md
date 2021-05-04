@@ -1,7 +1,5 @@
 # Migration Overview
 
-[TOC]
-
 The service-based backend and micro frontend design meets the need to fairly quickly migrate and/or fix the current major problems with the Sysops Squad system, due to the severity of the impact on the Penultimate Electronics business and bottom line.
 
 ## Example Gradual Migration

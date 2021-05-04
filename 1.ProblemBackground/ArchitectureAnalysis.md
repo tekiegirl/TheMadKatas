@@ -1,7 +1,5 @@
 # Architecture Analysis
 
-[TOC]
-
 ## Key Architecture Characteristics
 
 By identifying the key architecture characteristics for this solution we can then identify the least-worst solution. Best practice is to identify no more than 7.
