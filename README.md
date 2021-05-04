@@ -17,15 +17,16 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata.
 [Problem Background](1.ProblemBackground/README.md)
 
 - [Business Goal](1.ProblemBackground/BusinessGoal.md)
-
+- [Actors and Actions](1.ProblemBackground/images/Personas.drawio)
 - [Constraints & Assumptions](1.ProblemBackground/ConstraintsAndAssumptions.md)
+- [Stakeholder Concerns](1.ProblemBackground/StakeholderConcerns.md)
 
 [Solution Background](2.SolutionBackground/README.md)
 
 - [Architecture Principles](2.SolutionBackground/ArchitecturePrinciples.md)
-
 - [Datastore Solution Overview](2.SolutionBackground/datastore/README.md)
-
+- [Deployment](2.SolutionBackground/Deployment.md)
+- [Migration](2.SolutionBackground/Migration.md)
 - [ADRs](4.ADRs/README.md)
 
 [Views & Perspectives](3.ViewsAndPerspectives/README.md)
