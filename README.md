@@ -20,6 +20,7 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. We have put
 - [Actors and Actions](1.ProblemBackground/images/Personas.png)
 - [Constraints & Assumptions](1.ProblemBackground/ConstraintsAndAssumptions.md)
 - [Stakeholder Concerns](1.ProblemBackground/StakeholderConcerns.md)
+- [RAID Log](1.ProblemBackground/RAID.md)
 
 [Solution Background](2.SolutionBackground/README.md)
 
