@@ -17,3 +17,7 @@ Scenarios key to architecture design.
 ## 04 Expert acts on Ticket
 
 ![ScenarioExpertActsOnTicket](images/ScenarioExpertActsOnTicket.png)
+
+------
+
+back to [Views & Perspectives](../README.md)
