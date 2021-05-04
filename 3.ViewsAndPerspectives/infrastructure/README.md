@@ -39,3 +39,7 @@ A **Component** diagram zooms into an individual container, showing the componen
 ------
 
 ^explanations from https://c4model.com/
+
+------
+
+back to [Views & Perspectives](../README.md)
