@@ -1,7 +1,5 @@
 # Datastore Solution Overview
 
-[TOC]
-
 ## Datastore Requirements
 
 ### Functional
