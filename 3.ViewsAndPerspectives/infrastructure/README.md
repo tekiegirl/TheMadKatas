@@ -29,11 +29,19 @@ The following diagram breaks down the Sysops Squad system into groups of related
 ## Component Diagrams (Level 3)
 
 A **Component** diagram zooms into an individual container, showing the components inside it.[^](#expl)
-The following diagrams break down the containers/functionality shown above further, into components which represent individually deployable services ([see ADR: 002 We-will-use-a-Service-Based-backend-architecture](../../4.ADRs/002We-will-use-a-Service-Based-backend-architecture.md)).
+The following diagrams break down the containers/functionality shown above further, into components which represent individually deployable services.
+
+#### Relevant ADRs
+
+- [002 We-will-use-a-Service-Based-backend-architecture](../../4.ADRs/002We-will-use-a-Service-Based-backend-architecture.md)
 
 ### Ticket Management
 
 The following diagram shows the individually deployable services in the Ticket Management domain, and how they interact with each other, users and other domains.
+
+#### Relevant ADRs
+
+- [006 We-will-separate-Ticket-Management](../../4.ADRs/006We-will-separate-Ticket-Management.md)
 
 ![TicketComponentDiagram](images/TicketComponentDiagram.png)
 
@@ -43,6 +51,10 @@ The following diagram shows the individually deployable services in the Ticket M
 
 The following diagram shows the individually deployable services in the User Management domain, and how they interact with each other, users and other domains.
 
+#### Relevant ADRs
+
+- [007 We-will-separate-User-Management](../../4.ADRs/007We-will-separate-User-Management.md)
+
 ![UserComponentDiagram](images/UserComponentDiagram.png)
 
 ------
@@ -51,9 +63,26 @@ The following diagram shows the individually deployable services in the User Man
 
 The following diagram shows the individually deployable services in the Notification Management domain, and how they interact with each other, users and other domains.
 
+#### Relevant ADRs
+
+- [008 We-will-separate-Notification-Sending](../../4.ADRs/008We-will-separate-Notification-Sending.md)
+
 ![NotificationComponentDiagram](images/NotificationComponentDiagram.png)
 
 ------
+
+### Data Store
+
+The following diagram shows the individually deployable services in the Notification Management domain, and how they interact with each other, users and other domains.
+
+#### Relevant ADRs
+
+- [005 We-will-use-a-Graph-Database](../../4.ADRs/005We-will-use-a-Graph-Database.md)
+- [009 We-will-abstract-away-the-data-store](../../4.ADRs/009We-will-abstract-away-the-data-store.md)
+
+![DataStoreComponentDiagram](images/DataStoreComponentDiagram.png)
+
+---
 
 <a id="expl"></a>^explanations from https://c4model.com/
 

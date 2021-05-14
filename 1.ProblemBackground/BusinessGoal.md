@@ -2,11 +2,9 @@
 
 Penultimate Electronics requires an effective ticketing system to support their product support business line.
 
-## Business Drivers
+## Business Drivers 
 
- 
-
-* Customer and call-center staff complaints about system availability and usability
+* Customer and call-centre staff complaints about system availability and usability
 
 * Increase efficiency and reduce maintainability costs for software changes and business disruption due to failures
 
@@ -14,13 +12,9 @@ Penultimate Electronics requires an effective ticketing system to support their 
 
 * Risk of loosing profitable business line
 
-
-
 ##  Architecturally Significant Business Requirements
 
 Following are the significant business requirements;
-
-
 
 1. Customers can register and maintain their profile including billing information
 
@@ -44,19 +38,18 @@ Following are the significant business requirements;
 
 11. System can send notifications to Customers and Expert users when required
 
-12. Call center/support teams can access the system
+12. Call centre/support teams can access the system
 
 13. Managers can request and receive various operational and analytical reports
 
 14. Data from existing data have to be migrated into new system
 
-    
 
 ## Significant Non-Functional requirements 
 
 Following are the significant non-functional requirements based on current pain points and stakeholders concerns. However, please note these is not full list of non-functional requirements.
 
-1. Reliability of the system
+1. <a id="rely"></a>Reliability of the system 
 2. Availability of the system to support nature of it's usage
 3. Maintainability of the system to sustain it and to extend it's functionality
 
