@@ -17,21 +17,25 @@ Options:
 
 
 ## Decision
+Use the Penultimate Electronics corporate wide used 3rd party payment gateway service. 
 
 
 ## Consequences
+**Postivie:**
+* Time to market - This will save time and effort as team familiar with gateway used in other systems.
+* No additional cost to payment gateeway service.
+* Less operational overheads
 
 
-## Easy to access decisions.
-
-
-## Negative:
-
-
-
-## Risks:
+**Negative:**
+* Increased dependency on a single third party service
 
 
 
-## Bonus Features:
+**Risks:**
+
+
+
+
+**Bonus Features:**
 
