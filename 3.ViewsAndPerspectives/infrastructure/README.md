@@ -100,15 +100,25 @@ The following diagram shows the individually deployable services in the Notifica
 
 ### Report Management
 
+The following diagram shows the individually deployable services in the Report Management domain, and how they interact with each other, users and other domains.
+
 ![ReportComponentDiagram](images/ReportComponentDiagram.png)
 
 #### Relevant ADRs
 
 - [012 We-will-not-separate-reporting](../../4.ADRs/012We-will-not-separate-reporting.md)
 
+---
 
+### Knowledge Management
 
+The following diagram shows the individually deployable services in the Knowledge Management domain, and how they interact with each other, users and other domains.
 
+![KnowledgeComponentDiagram](images/KnowledgeComponentDiagram.png)
+
+- #### Relevant ADRs
+
+  - [013 We-will-separate-Knowledge-Management](../../4.ADRs/013We-will-separate-Knowledge-Management.md)
 
 ---
 
@@ -117,4 +127,3 @@ The following diagram shows the individually deployable services in the Notifica
 ------
 
 back to [Views & Perspectives](../README.md)
-

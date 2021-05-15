@@ -21,3 +21,7 @@
 [010 We-will-ensure-contracts-between-services-are-back-compatible.md](010We-will-ensure-contracts-between-services-are-back-compatible.md)
 
 [011 We-will-use-zero-trust-architecture.md](011We-will-use-zero-trust-architecture.md)
+
+[012 We-will-not-separate-reporting.md](012We-will-not-separate-reporting.md)
+
+[013 We-will-separate-Report-Management.md](013We-will-separate-Report-Management.md)

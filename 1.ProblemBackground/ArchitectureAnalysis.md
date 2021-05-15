@@ -1,3 +1,7 @@
+
+
+
+
 # Architecture Analysis
 
 ## Key Architecture Characteristics
@@ -82,6 +86,22 @@ A breakdown of the key granularity analysis and links to ADRs.
 
 [ADR: Reporting will not be further broken down](../4.ADRs/012We-will-not-separate-reporting.md)
 
-------
+### Knowledge
+
+| Functionality          | Volatility | Scalability  | Fault Tolerance                             | Data Security | Data Transactions       |
+| ---------------------- | ---------- | ------------ | ------------------------------------------- | ------------- | ----------------------- |
+| Create article         | Low        | Low usage    | Split required from retrieve                | Same          | Article                 |
+| Retrieve article       | Low        | High usage   | Split required from create, edit and delete | Same          | Content, tags, keywords |
+| Edit article content   | Low        | Medium usage | Split required from retrieve                | Same          | Content                 |
+| Edit article tags      | Low        | Medium usage | Split required from retrieve                | Same          | Tags                    |
+| Edit article keywords  | Low        | Medium usage | Split required from retrieve                | Same          | Keywords                |
+| Archive/delete article | Low        | Low usage    | Split required from retrieve                | Same          | Article                 |
+
+[ADR: Separate Knowledge into Article Management, Article Retrieval and Article Updater](../4.ADRs/013We-will-separate-Knowledge-Management)
+
+
+
+---
 
 [NOTE: the same analysis is required of other parts of the system but this kata is time-restricted]
+
