@@ -38,7 +38,7 @@
 | Principle                     | Rational                                                     | Implications                         |
 | :---------------------------- | :----------------------------------------------------------- | :----------------------------------- |
 | System should be extendable   | New functionality will be required to support system evolution. | can support changing business needs. |
-| System should be Maintainable | Regular maintenance activities, fixing bugs are essential for any operational system. |                                      |
+| System should be Maintainable | Regular maintenance activities, fixing bugs are essential for any operational system. Will be able to perform change reliably and effectively | Least business disruption during the change |
 
 ------
 
