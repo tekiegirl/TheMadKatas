@@ -19,3 +19,5 @@
 [009 We-will-abstract-away-the-data-store.md](009We-will-abstract-away-the-data-store.md)
 
 [010 We-will-ensure-contracts-between-services-are-back-compatible.md](010We-will-ensure-contracts-between-services-are-back-compatible.md)
+
+[011 We-will-use-zero-trust-architecture.md](011We-will-use-zero-trust-architecture.md)
