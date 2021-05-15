@@ -22,7 +22,21 @@ This diagram shows how the main users of Sysops Squad interact with the system, 
 A **Container** diagram zooms into the software system in scope, showing the high-level technical building blocks.[^](#expl)
 The following diagram breaks down the Sysops Squad system into groups of related functionality, or domains, and shows how they interact with each other and how the users of the Sysops system interact with the functionality.
 
+### Overall Sysops System
+
+Authentication has been left of out this diagram for readability. See Authentication container diagram below.
+
 ![ContainerDiagram](images/ContainerDiagram.png)
+
+### Sysops System Authentication
+
+Every service within the Sysops Squad system can use the Authentication domain where needed, but is not shown on the below diagram for readability. Having a single source of truth for authentication allows the Sysops Squad system to be built on the premise of Zero Trust. When a request is made to a service it will not be assumed that the request is from a genuine authenticated user, but checked against the authentication domain, e.g. by sending a token.
+
+#### Relevant ADRs
+
+- [011 We-will-use-zero-trust-architecture](../../4.ADRs/011We-will-use-zero-trust-architecture.md)
+
+![AuthContainerDiagram](images/AuthContainerDiagram.png)
 
 ------
 
@@ -84,8 +98,23 @@ The following diagram shows the individually deployable services in the Notifica
 
 ---
 
+### Report Management
+
+![ReportComponentDiagram](images/ReportComponentDiagram.png)
+
+#### Relevant ADRs
+
+- [012 We-will-not-separate-reporting](../../4.ADRs/012We-will-not-separate-reporting.md)
+
+
+
+
+
+---
+
 <a id="expl"></a>^explanations from https://c4model.com/
 
 ------
 
 back to [Views & Perspectives](../README.md)
+

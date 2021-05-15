@@ -73,6 +73,15 @@ A breakdown of the key granularity analysis and links to ADRs.
 
 [ADR: Separate Notification into SMS, Email and Orchestrator (Notification Preference)](../4.ADRs/008We-will-separate-Notification-Sending.md)
 
+### Reports
+
+| Functionality                    | Volatility | Scalability | Fault Tolerance | Data Security | Data Transactions | Data Dependencies | Workflow |
+| -------------------------------- | ---------- | ----------- | --------------- | ------------- | ----------------- | ----------------- | -------- |
+| Create Report / Report requested | Medium     | Low usage   | Same            | Same          | Same              | Same              | Same     |
+| Request data from data store     | Low        | Low usage   | Same            | Same          | Same              | Same              | Same     |
+
+[ADR: Reporting will not be further broken down](../4.ADRs/012We-will-not-separate-reporting.md)
+
 ------
 
 [NOTE: the same analysis is required of other parts of the system but this kata is time-restricted]
