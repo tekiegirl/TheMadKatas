@@ -1,6 +1,6 @@
 # Architecture Decision records
 
-001 We-are-using-ADRs-(template).md[001We-are-using-ADRs-(template).md]
+[001 We-are-using-ADRs-(template).md](001We-are-using-ADRs-(template).md)
 
 002 We-will-use-a-Service-Based-backend-architecture.md[002We-will-use-a-Service-Based-backend-architecture.md]
 
