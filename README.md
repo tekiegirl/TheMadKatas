@@ -32,7 +32,7 @@ We have put as much time as we each could into this kata, but life and family co
 - [Deployment](2.SolutionBackground/Deployment.md)
 - [Migration](2.SolutionBackground/Migration.md)
 - [Roadmap](2.SolutionBackground/Roadmap.md)
-- [ADRs](4.ADRs)
+- [ADRs](4.ADRs/README.md)
 
 [Views & Perspectives](3.ViewsAndPerspectives/README.md)
 
