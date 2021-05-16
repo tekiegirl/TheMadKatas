@@ -130,9 +130,11 @@
 
 ## Deployment
 ![[Containerisation.png]]
+
 ---
 
 ## Overall Solution View
+![[ServiceArchitectureMicroFrontend.png]]
 
 ---
 

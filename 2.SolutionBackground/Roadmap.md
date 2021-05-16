@@ -50,7 +50,22 @@ The most critical problem with the current Sysops system has been identified as 
 
 TBC after consultation with stakeholders.
 
+---
+
+## Nth Iteration
+
+As many iterations as are necessary until migration is complete. TBC after consultation with stakeholders.
+
+---
+
+## Aim for Migration
+
+Once all services have been migrated from the current to the new design the overall system will have a service architecture with a micro font-end. As each service and UI are built and tested and then migrated to, the current system will be phased out until none of it remains in use.
+
+During, and once migration is complete new iterations on the structure of the system are possible when new information comes to light.
+
+![ServiceArchitectureMicroFrontend](images/ServiceArchitectureMicroFrontend.png)
+
 ------
 
 back to [Solution Overview](README.md)
-
