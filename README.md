@@ -1,5 +1,7 @@
 # Architectural Kata Spring 2021 - The Mad Katas
-Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. We have put as much time as we each could into this kata, but life and family come first. Although this architecture solution isn't complete we hope it shows you the most important parts of our design thinking and hints at what we would have produced with more time.
+Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. The aim of this documentation repository is to
+
+We have put as much time as we each could into this kata, but life and family come first. Although this architecture solution isn't complete we hope it shows you the most important parts of our design thinking and hints at what we would have produced with more time.
 
 ## Members
 
@@ -17,6 +19,7 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. We have put
 [Problem Background](1.ProblemBackground/README.md)
 
 - [Business Goal](1.ProblemBackground/BusinessGoal.md)
+- [Architecture Analysis](1.ProblemBackground/ArchitectureAnalysis.md)
 - [Actors and Actions](1.ProblemBackground/images/Personas.png)
 - [Constraints & Assumptions](1.ProblemBackground/ConstraintsAndAssumptions.md)
 - [Stakeholder Concerns](1.ProblemBackground/StakeholderConcerns.md)
@@ -28,6 +31,7 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. We have put
 - [Datastore Solution Overview](2.SolutionBackground/datastore/README.md)
 - [Deployment](2.SolutionBackground/Deployment.md)
 - [Migration](2.SolutionBackground/Migration.md)
+- [Roadmap](2.SolutionBackground/Roadmap.md)
 - [ADRs](4.ADRs)
 
 [Views & Perspectives](3.ViewsAndPerspectives/README.md)
@@ -40,6 +44,7 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. We have put
 
 - [2021 Architecture Katas Presentation](docs/2021ArchitectureKatasPresentation.pdf)
 - [2021 Kata Participating Teams Info](docs/2021KataParticipatingTeamsInfo.pdf)
+- [Kata Semi-finals Presentation](docs/KataSemiFinalistsPresentation.pdf)
 
 ## References
 
