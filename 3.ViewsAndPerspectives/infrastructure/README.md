@@ -122,7 +122,29 @@ The following diagram shows the individually deployable services in the Knowledg
 
 ---
 
-<a id="expl"></a>^explanations from https://c4model.com/
+### System Data
+
+The following diagram shows the individually deployable services in the Knowledge Management domain, and how they interact with each other, users and other domains.
+
+![SystemDataComponentDiagram](images/SystemDataComponentDiagram.png)
+
+#### Relevant ADRs
+
+- [014 We-will-not-separate-System-Data](../../4.ADRs/014We-will-not-separate-System-Data.md)
+
+---
+
+### Billing Management
+
+![BillingComponentDiagram](images/BillingComponentDiagram.png)
+
+#### Relevant ADRs
+
+- [015 We-will-separate-Billing-Management](../../4.ADRs/015We-will-separate-Billing-Management.md)
+
+---
+
+<a id="expl"></a>^ explanations from https://c4model.com/
 
 ------
 
