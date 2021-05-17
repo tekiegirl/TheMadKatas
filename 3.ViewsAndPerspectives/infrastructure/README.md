@@ -158,6 +158,16 @@ The following diagram shows the individually deployable services in the Contract
 
 ---
 
+### Feedback Management
+
+![FeedbackComponentDiagram](images/FeedbackComponentDiagram.png)
+
+#### Relevant ADRs
+
+- [017 We-will-separate-Feedback-Management](../../4.ADRs/017We-will-separate-Feedback-Management.md)
+
+---
+
 <a id="expl"></a>^ explanations from https://c4model.com/
 
 ------
