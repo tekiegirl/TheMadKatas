@@ -136,11 +136,25 @@ The following diagram shows the individually deployable services in the Knowledg
 
 ### Billing Management
 
+The following diagram shows the individually deployable services in the Billing Management domain, and how they interact with each other, users and other domains.
+
 ![BillingComponentDiagram](images/BillingComponentDiagram.png)
 
 #### Relevant ADRs
 
 - [015 We-will-separate-Billing-Management](../../4.ADRs/015We-will-separate-Billing-Management.md)
+
+---
+
+### Contract Management
+
+The following diagram shows the individually deployable services in the Contract Management domain, and how they interact with each other, users and other domains.
+
+![ContractComponentDiagram](images/ContractComponentDiagram.png)
+
+#### Relevant ADRs
+
+- [016 We-will-not-separate-Contract-Management](../../4.ADRs/016We-will-not-separate-Contract-Management.md)
 
 ---
 
