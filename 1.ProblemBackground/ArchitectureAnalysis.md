@@ -97,11 +97,45 @@ A breakdown of the key granularity analysis and links to ADRs.
 | Edit article keywords  | Low        | Medium usage | Split required from retrieve                | Same          | Keywords                |
 | Archive/delete article | Low        | Low usage    | Split required from retrieve                | Same          | Article                 |
 
-[ADR: Separate Knowledge into Article Management, Article Retrieval and Article Updater](../4.ADRs/013We-will-separate-Knowledge-Management)
+[ADR: Separate Knowledge into Article Management, Article Retrieval and Article Updater](../4.ADRs/013We-will-separate-Knowledge-Management.md)
 
+### System Data
 
+| Functionality                     | Volatility | Scalability | Fault Tolerance    | Data Security | Data Transactions  |
+| --------------------------------- | ---------- | ----------- | ------------------ | ------------- | ------------------ |
+| Manage supported products         | Low        | Low usage   | Not vital to split | Same          | Products           |
+| Manage plans offered to customers | Low        | Low usage   | Not vital to split | Same          | Plans, Products    |
+| Manage Surveys and Questions      | Low        | Low usage   | Not vital to split | Same          | Surveys, Questions |
+
+[ADR: System Data will not be further broken down](../4.ADRs/014We-will-not-separate-System-Data.md)
+
+### Billing Management
+
+| Functionality                                     | Volatility | Scalability  | Fault Tolerance    | Data Security | Data Transactions     |
+| ------------------------------------------------- | ---------- | ------------ | ------------------ | ------------- | --------------------- |
+| Add and update customer billing data              | Medium     | Medium usage | Not vital to split | Same          | Customer billing data |
+| Process initial and monthly payment for contracts | Low        | Medium usage | Split required     | Same          | Customer billing data |
+
+[ADR: Separate Billing into Customer Billing and Payment Processing](../4.ADRs/015We-will-separate-Billing-Management.md)
+
+### Contract Management
+
+| Functionality                     | Volatility | Scalability  | Fault Tolerance    | Data Security | Data Transactions                                            |
+| --------------------------------- | ---------- | ------------ | ------------------ | ------------- | ------------------------------------------------------------ |
+| Sign-up to Plan / Create Contract | Low        | Medium usage | Not vital to split | Same          | Plans, Contracts, Products, Customer (Contracts & owned Products) |
+| Cancel Contract                   | Low        | Low usage    | Not vital to split | Same          | Customer Contracts, Contracts (end-early clause, etc)        |
+
+[ADR: Contract Management will not be further broken down](../4.ADRs/016We-will-not-separate-Contract-Management.md)
+
+### Feedback Management
+
+| Functionality                 | Volatility | Scalability         | Fault Tolerance | Data Security | Data Transactions                    |
+| ----------------------------- | ---------- | ------------------- | --------------- | ------------- | ------------------------------------ |
+| Assign Survey to Customer     | Low        | Elasticity Required | Split required  | Same          | Survey, Customer                     |
+| Record Response from Customer | Low        | Elasticity Required | Split required  | Same          | Survey, Customer, Question, Response |
+
+[ADR: Separate Feedback into Survey Management and Response Management](../4.ADRs/017We-will-separate-Feedback-Management.md)
 
 ---
 
-[NOTE: the same analysis is required of other parts of the system but this kata is time-restricted]
-
+back to [Problem Background](README.md)
