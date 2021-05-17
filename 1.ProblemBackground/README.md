@@ -4,7 +4,7 @@
 
 * Business Goals, Drivers and Architecturally significant requirements
 
-[Actors and Actions](images/Personas.png)
+[Actors and Actions](Personas.md)
 
 * List of actors and mapping to actions
 
