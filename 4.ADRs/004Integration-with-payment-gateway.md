@@ -22,13 +22,15 @@ Use the Penultimate Electronics corporate wide used 3rd party payment gateway se
 
 ## Consequences
 **Postivie:**
-* Time to market - This will save time and effort as team familiar with gateway used in other systems.
+* Time to market - This will save time and effort as team familiar with gateway used in other systems and also complaince is already covered.
 * No additional cost to payment gateeway service.
-* Less operational overheads
+* Existing gateway complaint with PCI 
+* Less operational overheads in long term
 
 
 **Negative:**
 * Increased dependency on a single third party service
+* Less control/flexibility on payment choices
 
 
 
@@ -38,4 +40,6 @@ Use the Penultimate Electronics corporate wide used 3rd party payment gateway se
 
 
 **Bonus Features:**
+* PCI complaince is already covered
+* 
 
