@@ -8,7 +8,7 @@
 
 ---
 
->Not only is a solution for the current problems with the Sysops Squad system needed, the solution needs to be enacted quickly to save this arm of the Penuntimate Electronics business.
+>Not only is a solution for the current problems with the Sysops Squad system needed, the solution needs to be enacted quickly to save this arm of the Penultimate Electronics business.
 
 ---
 
@@ -30,13 +30,13 @@
 ---
 
 ### Expert
-- not being able to fix an item as they don't have the skills, embarrasing and a waste of time and fuel
+- not being able to fix an item as they don't have the skills, embarrassing and a waste of time and fuel
 - ticket information not available when needed
 
 ---
 
 ### Owner
-- the brand image of Penultimate Electronics and Sysops Squad are being tranished by these problems
+- the brand image of Penultimate Electronics and Sysops Squad are being tarnished by these problems
 - money is being wasted when the wrong expert turns up
 - customers maybe lost to competitors or cancel contracts due to bad service 
 
@@ -63,7 +63,7 @@
 
 ---
 
-### ## Ticket created for Expert
+### Ticket created for Expert
 ![[ScenarioTicketCreatedForExpert.png]]
 
 ---
@@ -87,7 +87,6 @@
 ---
 
 ![[ArchitecturalCharacteristics.png]]
----
 
 ## System Granularity
 ---
@@ -95,21 +94,21 @@
 ### Tickets
 ![[TicketComponentDiagram.png]]
 
-#### ADR: we will spearate Ticket Management into an orchestrator, ticket management and ticket assignment.
+#### ADR: we will separate Ticket Management into an orchestrator, ticket management and ticket assignment.
 
 ---
 
 ### Users
 ![[UserComponentDiagram.png]]
 
-#### ADR: we will spearate User Management into an orchestrator, customer management, expert management and Sysops user management.
+#### ADR: we will separate User Management into an orchestrator, customer management, expert management and Sysops user management.
 
 ---
 
 ### Notification
 ![[NotificationComponentDiagram.png]]
 
-#### ADR: we will spearate Notofication Management into an orchestrator, sms management and email management.
+#### ADR: we will separate Notification Management into an orchestrator, sms management and email management.
 
 ---
 
