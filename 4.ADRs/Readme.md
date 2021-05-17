@@ -31,3 +31,5 @@
 [015 We-will-separate-Billing-Management](015We-will-separate-Billing-Management.md)
 
 [016 We-will-not-separate-Contract-Management](016We-will-not-separate-Contract-Management.md)
+
+[017 We-will-separate-Feedback-Management](017We-will-separate-Feedback-Management.md)
