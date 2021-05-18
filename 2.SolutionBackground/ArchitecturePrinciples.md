@@ -6,6 +6,7 @@
 | :------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | Modular architecture       | Modular design enables components/services to be improved/replaced with ease. | Components/services can be tested/deployed with minimal business disruption. Improved availability and reliability. |
 | Pattern based architecture | Industry well recognised/proven pattern based architectures will improve re-usability | Less effort to build and maintain systems                    |
+| Compliant with law and regulation | All solutions must be law-abiding and compile with rules and guidance from regulatory bodies| Rules of the road, just follow them! | 
 
 ##  Automation
 
