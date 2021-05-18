@@ -20,7 +20,7 @@ We have put as much time as we each could into this kata, but life and family co
 
 - [Business Goal](1.ProblemBackground/BusinessGoal.md)
 - [Architecture Analysis](1.ProblemBackground/ArchitectureAnalysis.md)
-- [Actors and Actions](1.ProblemBackground/images/Personas.png)
+- [Actors and Actions](1.ProblemBackground/Personas.md)
 - [Constraints & Assumptions](1.ProblemBackground/ConstraintsAndAssumptions.md)
 - [Stakeholder Concerns](1.ProblemBackground/StakeholderConcerns.md)
 - [RAID Log](1.ProblemBackground/RAID.md)
