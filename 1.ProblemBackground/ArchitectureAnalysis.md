@@ -138,4 +138,10 @@ A breakdown of the key granularity analysis and links to ADRs.
 
 ---
 
+### Data Store
+
+See [Datastore Solution Overview](../2.SolutionBackground/datastore/README.md).
+
+---
+
 back to [Problem Background](README.md)
