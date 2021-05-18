@@ -28,6 +28,7 @@ We have put as much time as we each could into this kata, but life and family co
 [Solution Background](2.SolutionBackground/README.md)
 
 - [Architecture Principles](2.SolutionBackground/ArchitecturePrinciples.md)
+- [Overall Architecture Style Analysis](2.SolutionBackground/ArchitecturePatterns.md)
 - [Datastore Solution Overview](2.SolutionBackground/datastore/README.md)
 - [Deployment](2.SolutionBackground/Deployment.md)
 - [Migration](2.SolutionBackground/Migration.md)
