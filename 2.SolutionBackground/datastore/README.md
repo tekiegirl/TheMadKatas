@@ -65,6 +65,10 @@
 None.
 
 
+### Encryption
+
+Data will be encrypted at rest and in-flight
+
 
 ### Polyglot Persistence (Combination)
 
