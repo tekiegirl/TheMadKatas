@@ -6,7 +6,7 @@ In order to overcome the most critical business problems with the current Sysops
 
 The following diagram shows the current Sysops system monolithic architecture and component breakdown within.
 
-![image-20210516085156733](images/CurrentSystem.png)
+<img src="images/CurrentSystem.png" alt="current monolith diagram" width="400px">
 
 ---
 
