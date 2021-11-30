@@ -22,6 +22,7 @@
 #
 *.gitattributes linguist-language=gitattributes
 
-assets/* linguist-vendored
+images/* linguist-vendored
+docs/* linguist-vendored
 
-*.md            linguist-language=Markdown
+*.md linguist-language=Markdown
