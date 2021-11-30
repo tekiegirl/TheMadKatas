@@ -1,11 +1,14 @@
 # Architectural Kata Spring 2021 - The Mad Katas
+
+<img src="images/bronze-medal.png" width="150" height="150"/> 3rd Place Winners
+
 Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. The aim of this documentation repository is to communicate our design for the problem described, for a stakeholder and development team audience.
 
 We have put as much time as we each could into this kata, but life and family come first. Although this architecture solution isn't complete we hope it shows you the most important parts of our design thinking and hints at what we would have produced with more time.
 
 ## Members
 
-- Jacqui Read [[LinkedIn](https://www.linkedin.com/in/jacquelineread/)]
+- Jacqui Read [[LinkedIn](https://www.linkedin.com/in/jacquelineread/)] ([see my successive 1st place kata entry](https://github.com/tekiegirl/Archangels))
 - Clare Easton [[LinkedIn](https://www.linkedin.com/in/clare-easton-1a419016/)]
 - Nath Reddy [[LinkedIn](https://www.linkedin.com/in/srinath-reddy-0115396/)]
 - David Oliver [[LinkedIn](https://www.linkedin.com/in/davidoliveruk/)]
@@ -54,5 +57,6 @@ We have put as much time as we each could into this kata, but life and family co
 - [C4 Model](https://c4model.com/)
 - [Graph Databases & Neo4j](https://neo4j.com/)
 
-------
+---
 
+[Above bronze-medal icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)]
