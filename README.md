@@ -6,6 +6,8 @@ Welcome to our entry to the O'Reilly Spring 2021 Architectural Kata. The aim of 
 
 We have put as much time as we each could into this kata, but life and family come first. Although this architecture solution isn't complete we hope it shows you the most important parts of our design thinking and hints at what we would have produced with more time.
 
+<img src="images/TheMadKatas.png" alt="TheArchangels" style="zoom:50%;" />
+
 ## Members
 
 - Jacqui Read [[LinkedIn](https://www.linkedin.com/in/jacquelineread/)] ([see my successive 1st place kata entry](https://github.com/tekiegirl/Archangels))
